@@ -3,3 +3,5 @@ Continuing Coffee Fortun application production with React Native Note: Developm
 
 + Baran Beyazıt
 + 02/01/2021
+
+Note: the application is under development. Not finished yet.
